@@ -1,0 +1,6 @@
+{
+  "name": "HTML to Markdown Extractor",
+  "description": "Rendert Webseiten mit Headless-Webengine als temporäre index.html, extrahiert alle .text_layer Textelemente per JavaScript und speichert sie absatzformatiert als Markdown im out-Ordner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
